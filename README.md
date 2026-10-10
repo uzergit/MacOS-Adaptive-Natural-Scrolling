@@ -1,3 +1,5 @@
+this project was FULLY made by Claude
+
 # Adaptive Natural Scrolling for macOS
 
 **Natural scrolling on the trackpad, normal scrolling with a mouse — automatically.**
